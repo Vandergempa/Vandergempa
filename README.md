@@ -14,5 +14,3 @@
 - [📷Instagram](https://www.instagram.com/vandergempa)
 - [💬Discord](https://discord.gg/SkhQdACYuk)
 - [📘 Facebook](https://www.facebook.com/vandergempa)
-
-⚡ Fun fact: ...
