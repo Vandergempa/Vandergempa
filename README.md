@@ -2,7 +2,7 @@
 
 📐 Well-organized, egoless and aspiring web-developer, avid coder and technology lover with an ambition to learn. I mostly specialize in full-stack web development with a stronger liking for the front-end part. 
 
-🔨 I'm currently working at Edge as a full-time platform engineer. Additionally, I am a crypto/nft investor/researcher, part-time streamer on Twitch 📺 and I also spend some time editing videos for my youtube channel.
+🔨 I'm currently working at Dunelm as a full-stack developer. Additionally, I am a crypto/nft investor/researcher, part-time streamer on Twitch 📺 and I also spend some time editing videos for my youtube channel.
 
 🌠 Plans for the next year: 
 - Looking to get into blockchain development/web3 (defi, mining but mostly metaverse/gaming)
